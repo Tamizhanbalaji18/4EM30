@@ -1,2 +1,2 @@
-# 4EM30
-Scientific Computing for Mechanical Engineering
+# Instructions
+Supplementary material for self-study instructions
